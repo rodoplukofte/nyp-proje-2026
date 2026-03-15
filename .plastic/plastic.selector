@@ -1,0 +1,4 @@
+repository "SınırKapısı/SınırKapısı@18968367363696@cloud"
+  path "/"
+    br "/main"
+    co "/main"
